@@ -1,0 +1,40 @@
+{
+    "name": "mcp-file-manager",
+    "version": "1.0.0",
+    "description": "File Manager & Duplicates Cleaner via MCP",
+    "tools": [
+    {
+        "name": "list_files",
+        "description": "Lista archivos dentro de un directorio",
+        "input_schema": {
+        "type": "object",
+        "properties": {
+            "path": { "type": "string" }
+        },
+        "required": ["path"]
+        }
+    },
+    {
+        "name": "organize_by_extension",
+        "description": "Organiza archivos según su extensión",
+        "input_schema": {
+        "type": "object",
+        "properties": {
+            "path": { "type": "string" }
+        },
+        "required": ["path"]
+        }
+    },
+    {
+        "name": "find_duplicates",
+        "description": "Encuentra archivos duplicados en un directorio",
+        "input_schema": {
+        "type": "object",
+        "properties": {
+            "path": { "type": "string" }
+        },
+        "required": ["path"]
+        }
+    }
+    ]
+}

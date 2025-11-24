@@ -1,0 +1,24 @@
+Entornos virtuales (No subir, pesan mucho y son locales)
+
+venv/
+env/
+
+Archivos compilados de Python (Basura automática)
+
+pycache/
+*.pyc
+
+Credenciales y Secretos (¡SEGURIDAD CRÍTICA!)
+
+credentials.json
+token.json
+client_secret*.json
+
+Archivos de sistema y logs
+
+.DS_Store
+*.log
+
+Configuración de VS Code (Opcional, mejor que cada quien use la suya)
+
+.vscode/
