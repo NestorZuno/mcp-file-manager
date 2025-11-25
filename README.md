@@ -97,6 +97,15 @@ mcp-file-manager/
 
 ---
 
+## 📜 Licencia
+
+Este proyecto está bajo la licencia **MIT**.  
+Puedes consultar el archivo completo aquí:
+
+➡️ [LICENSE](./LICENSE)
+
+---
+
 ## ✍️ Autor  
 **Néstor Zuno Segura**  
 Ingeniería en Computación
