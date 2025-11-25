@@ -107,5 +107,5 @@ Puedes consultar el archivo completo aquí:
 ---
 
 ## ✍️ Autor  
-**Néstor Zuno Segura**  
+**Nestor Zuno Segura**  
 Ingeniería en Computación
