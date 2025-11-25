@@ -29,8 +29,7 @@ Permite control mediante lenguaje natural:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/mcp-file-manager.git
-cd mcp-file-manager
+github.com/NestorZuno/mcp-file-manager
 ```
 
 ### 2. Crear entorno virtual
