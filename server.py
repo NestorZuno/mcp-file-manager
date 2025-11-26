@@ -7,7 +7,7 @@ if current_dir not in sys.path:
     sys.path.append(current_dir)
 
 from fastmcp import FastMCP
-from send2trash import send2trash  # <--- NUEVA LIBRERÍA DE SEGURIDAD
+from send2trash import send2trash
 
 # Importaciones
 try:
@@ -38,7 +38,7 @@ def list_files(path: str = ".") -> list[str]:
 @mcp.tool()
 def get_folder_stats(path: str = ".") -> dict:
     """
-    (NUEVO) Devuelve estadísticas de la carpeta: cantidad de archivos y peso total.
+    Devuelve estadísticas de la carpeta: cantidad de archivos y peso total.
     Ideal para reportes antes de limpiar.
     """
     total_size = 0
