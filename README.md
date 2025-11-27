@@ -100,8 +100,9 @@ mcp-file-manager/
 
 Para una explicación completa del funcionamiento del proyecto, puedes consultar el siguiente video:
 
-[![Ver Video](https://img.shields.io/badge/Ver_Video-Google_Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1YpEzkAfUde53vzFChE4BLJGtVYNJ7Cgg/view?usp=sharing)
+[![Ver Video](https://img.shields.io/badge/Ver_Video-Google_Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/13bb2pa0X8yVFJEOF0cnZcCFvAsg8-rC0/view?usp=sharing)
 
+---
 
 ## 📜 Licencia
 
